@@ -183,11 +183,4 @@ Proyek ini dikembangkan sebagai bagian dari tugas akhir dengan judul:
 
 Dokumentasi penelitian mencakup analisis kebutuhan, perancangan sistem, implementasi aplikasi, serta pengujian menggunakan Black Box Testing, Software Testing Metrics, dan System Usability Scale (SUS).
 
-## 📬 Contact
-
-- GitHub: `[Your GitHub Profile]`
-- Email: `[Your Email]`
-
----
-
 *Developed as part of an undergraduate thesis project in Informatics Engineering.*
